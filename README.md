@@ -7,7 +7,7 @@ I have had the privilege of actively collaborating with University Hospital Ente
 
 📝 **Passion for Research:** My passion for research has driven me to write articles on incident cases and my personal investigations. Through these writings, I introduce the philosophy of Cyber Security, delving into the hidden truths behind the development and creation of malware and probing the real intentions of cyber criminals.
 
-
+### :fire: My Stats :
 
 Feel free to connect with me to discuss cybersecurity, ethical hacking, or any related topics. Let's work together to make the digital world more secure! 🌐
 
