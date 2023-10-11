@@ -14,6 +14,6 @@ Feel free to connect with me to discuss cybersecurity, ethical hacking, or any r
 
 # 📬 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ethanlacerenza/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ethan-lacerenza-2633421ab/)
 - Email: ethan.lacerenza@cybe.zone
 
