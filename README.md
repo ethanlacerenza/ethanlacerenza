@@ -23,6 +23,7 @@ I have had the privilege of actively collaborating with University Hospital Ente
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝  
 ```
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={ethanlacerenza}
 
 Feel free to connect with me to discuss cybersecurity, ethical hacking, or any related topics. Let's work together to make the digital world more secure!
 
