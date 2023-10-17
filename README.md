@@ -1,4 +1,10 @@
 ### Hi folks 👋
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,linux,git,github,gitlab,kubernetes,docker,c,vim,py,vscode,go&theme=light" />
+  </a>
+</p>
+
 
 # :octocat: About Me 
 
