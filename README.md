@@ -1,4 +1,5 @@
-### Hi folks 👋
+### Hey, I'm Ethan!
+### My Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,linux,git,ansible,aws,docker,kubernetes,nginx&theme=dark" />
@@ -11,7 +12,7 @@
   </a>
 </p>
 
-## Operating systems - Server Based I specialize in 
+### Operating Systems - Server Based I specialize in 
 <br>
 <p align = "center">
       <img src = "https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=black">
@@ -19,8 +20,8 @@
       <img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=black"></a>
         <br>
         </p>
-        <br>
-:octocat: About Me 
+<br>
+<h3>About me</h3> 
 
 I am an accomplished cybersecurity researcher with a solid decade of experience in the technical realm. My career has been centered around activities such as malware analysis, penetration testing, and red teaming. I have demonstrated advanced skills in developing cutting-edge solutions for the detection and mitigation of cyberattacks.
 
@@ -33,7 +34,7 @@ I have had the privilege of actively collaborating with University Hospital Ente
 
 Feel free to connect with me to discuss cybersecurity, ethical hacking, or any related topics. Let's work together to make the digital world more secure!
 
-# 📬 Get in Touch
+### 📬 Get in Touch
 
 
 <p align = "center">
