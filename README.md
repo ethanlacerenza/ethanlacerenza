@@ -10,6 +10,16 @@
     <img src="https://skillicons.dev/icons?i=c,python,webassembly,js,go,vscode,github,gitlab&theme=dark" />
   </a>
 </p>
+
+## Operating systems - Server Based I specialize in 
+<br>
+<p align = "center">
+      <img src = "https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=black">
+      <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"></a>
+      <img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=black"></a>
+        <br>
+        </p>
+        <br>
 :octocat: About Me 
 
 I am an accomplished cybersecurity researcher with a solid decade of experience in the technical realm. My career has been centered around activities such as malware analysis, penetration testing, and red teaming. I have demonstrated advanced skills in developing cutting-edge solutions for the detection and mitigation of cyberattacks.
