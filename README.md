@@ -1,4 +1,4 @@
-### Hey, I'm Ethan!
+### Hello Dear 
 ### My Skills
 <p align="center">
   <a href="https://skillicons.dev">
