@@ -12,14 +12,6 @@
   </a>
 </p>
 
-### Operating Systems - Server Based I specialize in 
-<br>
-<p align = "center">
-      <img src = "https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=black">
-      <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"></a>
-      <img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=black"></a>
-        <br>
-        </p>
 <br>
 <h3>About me</h3> 
 
