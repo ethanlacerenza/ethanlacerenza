@@ -2,13 +2,13 @@
 ## Knowledge 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,git,ansible,aws,docker,kubernetes,nginx&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,git,ansible,aws,docker,kubernetes&theme=dark" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,webassembly,js,go,vscode,github,gitlab&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,python,webassembly,js,go,vscode,github&theme=dark" />
   </a>
 </p>
 
