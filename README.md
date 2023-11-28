@@ -1,31 +1,16 @@
-## Hello, Dear 
-![1book22-207x300](https://github.com/ethanlacerenza/ethanlacerenza/assets/71321892/06ccdf89-aa16-431a-a7a1-56164fc18b7e)
-
-
-## Knowledge 
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,git,ansible,aws,docker,kubernetes&theme=dark" />
-  </a>
-</p>
-
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,webassembly,js,go,vscode,github&theme=dark" />
-  </a>
-</p>
+![tumblr_o3xf6uxc9A1u9po1ko1_400](https://github.com/ethanlacerenza/ethanlacerenza/assets/71321892/72590773-f055-4a58-80f1-f2925419ca43)
 
 <br>
 
 
-## About me
+<pre>
+    💼 CyberSecurityAnalyst • Back-end dev • Platform Engineer
+    💻 Penetration Tester • DevSecOps 
+    📖 Software architecture • Distributed systems
+    🎮  Gym • Music • Anime • Code 
+</pre>
 
-- Accomplished cybersecurity researcher with a solid decade of experience in the technical realm.
-- Specialized in activities such as malware analysis, penetration testing, and DevSecOps.
-- Passionate about research, leading to the creation of articles on incident cases and personal investigations.
-- Dedicated to introducing the philosophy of Cyber Security, uncovering hidden truths behind malware development, and probing the real intentions of cyber criminals.
-
-### 📬 Get in Touch
+<h2> 📬 Get in Touch </h2>
 
 
 <p>
