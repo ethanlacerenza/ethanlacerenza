@@ -7,7 +7,7 @@
     💼 CyberSecurityAnalyst • Back-end dev • Platform Engineer
     💻 Penetration Tester • DevSecOps 
     📖 Software architecture • Distributed systems
-    🎮  Gym • Music • Anime • Code 
+    🎮  Gym • Metal Music • Anime • Code 
 </pre>
 
 <h2> 📬 Get in Touch </h2>
