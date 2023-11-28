@@ -12,7 +12,6 @@
 
 <h2> 📬 Get in Touch </h2>
 
-![757032xetac8usf7](https://github.com/ethanlacerenza/ethanlacerenza/assets/71321892/a0d7b936-4954-4280-b437-2bd055b610a9)
 
 <p>
         <a href = "https://github.com/ethanlacerenza"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
