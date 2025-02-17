@@ -1,13 +1,13 @@
-![tumblr_o3xf6uxc9A1u9po1ko1_400](https://github.com/ethanlacerenza/ethanlacerenza/assets/71321892/72590773-f055-4a58-80f1-f2925419ca43)
+![image](https://github.com/user-attachments/assets/d85a3b76-3fe6-4544-9310-d5fba32cf95a)
+
 
 <br>
 
 
 <pre>
-    💼 CyberSecurityAnalyst • Back-end dev • Platform Engineer
+    💼 Red Team Leader
     💻 Penetration Tester • DevSecOps 
-    📖 Software architecture • Distributed systems
-    🎮  Gym • Metal Music • Anime • Code 
+    🎮  Gym • Metal Music • Anime • Hacking
 </pre>
 
 <h2> 📬 Get in Touch </h2>
